@@ -1,0 +1,9 @@
+.calender , .input{
+    display: flex;
+    align-content: center;
+    margin-top: 25px;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(53, 52, 52);
+    border-radius: 10px;
+}

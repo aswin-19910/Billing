@@ -1,0 +1,27 @@
+input{
+    display: flex;
+    float: left;
+    border-radius: 15px;
+    border: rgb(221, 184, 255) 1px solid;
+    height: 30px;
+    width: 200px;
+    margin: 20px;
+    text-decoration: none;
+}
+.items{
+    width: 500px;
+    font-size: 12px;
+}
+form >.submit {
+    display: flex; 
+    width: fit-content;
+    border: none;
+    float: left;
+    margin-left:15px;
+    padding: 10px;
+    border-radius: 15px ;
+    background: rgb(39, 1, 51);
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}

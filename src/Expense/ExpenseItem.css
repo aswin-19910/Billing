@@ -1,0 +1,15 @@
+.layout{
+    margin: 10px 100px;
+}
+
+.submit {
+    margin: auto;
+    border: none;
+    padding: 10px;
+    
+    border-radius: 15px ;
+    background: rgb(51, 1, 66);
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}   
